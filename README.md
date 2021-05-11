@@ -6,7 +6,7 @@ pkg install git
 pkg install ffmpeg
 pkg instal wget
 pkg install nodejs
-clon de git https://github.com/victor-Aprendiz/Master
+git clone https://github.com/victor-Aprendiz/Master
 cd Master
 bash install.sh
 npm start
