@@ -6,8 +6,8 @@ pkg install git
 pkg install ffmpeg
 pkg instal wget
 pkg install nodejs
-git clone https://github.com/victor-Aprendiz/Master
-cd Master
+git clone https://github.com/victor-Aprendiz/Bot
+cd Bot
 bash install.sh
 npm start
 ESCANEIE O QR CODE QUE IRA APARECER COM O WHATSAPP 
